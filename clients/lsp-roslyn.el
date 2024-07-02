@@ -81,7 +81,7 @@ Unused on other platforms.")
   :package-version '(lsp-mode . "8.0.0")
   :group 'lsp-roslyn)
 
-(defcustom lsp-roslyn-package-version "4.9.0-3.23604.10"
+(defcustom lsp-roslyn-package-version "4.11.0-3.24320.2"
   "Version of the Roslyn package to install."
   :type 'string
   :package-version '(lsp-mode . "8.0.0")
